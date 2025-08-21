@@ -8,6 +8,7 @@
   width: 100%;
   border-bottom: 1px solid #103d4a;
   padding-bottom: .5em
+  
 }
 
 .cabecalho-logo {
@@ -35,6 +36,7 @@
   line-height: 2;
   margin: 0 .5em;
   font-size: .95em;
+  background-color: aqua;
 }
 
 .cabecalho-nav-item a {
